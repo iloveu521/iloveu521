@@ -28,8 +28,8 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cpp,py,ros,ubuntu,cmake,git,docker,neovim,vscode&theme=dark" />
-    <img alt="C++, Python, ROS, Ubuntu, CMake, Git, Noevim and VS Code" src="https://skillicons.dev/icons?i=cpp,py,ros,ubuntu,cmake,git,noevim,vscode&theme=light" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=c,cpp,py,ros,ubuntu,cmake,git,neovim,vscode&theme=dark" />
+    <img alt="C, C++, Python, Lua, ROS, Ubuntu, CMake, Git, Neovim and VS Code" src="https://skillicons.dev/icons?i=c,cpp,py,lua,ros,ubuntu,cmake,git,neovim,vscode&theme=light" />
   </picture>
 </div>
 
